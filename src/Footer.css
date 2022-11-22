@@ -1,0 +1,12 @@
+footer {
+  width: 100vw;
+  height: 3rem;
+  display: flex;
+  justify-content: center;
+  height: 3rem;
+  align-content: center;
+}
+
+.logo {
+  height: 2.5rem;
+}
